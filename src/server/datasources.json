@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mydb": {
+    "host": "localhost",
+    "database": "loopback-demo",
+    "username": "username",
+    "password": "",
+    "name": "mydb",
+    "connector": "postgresql"
+  }
+}
